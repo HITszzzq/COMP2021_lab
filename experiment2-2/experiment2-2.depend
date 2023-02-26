@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1602734818 source:g:\zzq\experiment2-2\main.c
+	<stdio.h>
+	<math.h>
+
+1602734818 source:f:\zzq\experiment2-2\main.c
+	<stdio.h>
+	<math.h>
+

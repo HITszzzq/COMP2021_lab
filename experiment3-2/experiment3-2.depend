@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603072380 source:g:\zzq\experiment3-2\main.c
+	<stdio.h>
+	<math.h>
+

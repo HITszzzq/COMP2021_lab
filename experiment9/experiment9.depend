@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605360240 source:g:\finalcode\experiment9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605622646 source:f:\finalcode\experiment9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
